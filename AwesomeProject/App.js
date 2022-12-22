@@ -44,6 +44,7 @@ const App = () => {
   );
 };
 
+// We can define objects for large application and use it in style prop
 const styles = StyleSheet.create({
   container: {
     margin: 100,
@@ -59,7 +60,6 @@ const styles = StyleSheet.create({
     fontWeight: 'bold',
     fontSize: 30,
   },
-
 });
 
 export default App;
