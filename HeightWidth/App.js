@@ -44,7 +44,7 @@ const App = () => {
         <View style={styles.flexBox3} />
 
         {/* Similar to flex dimensions, percentage dimensions require parent with a defined size.*/}
-      </View>
+      </View >
     </View>
   );
 };
